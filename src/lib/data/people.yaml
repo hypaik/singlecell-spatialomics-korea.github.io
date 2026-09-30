@@ -22,6 +22,14 @@
   location:
     lat: 36.3775
     lng: 127.3843
+- name: Hyojung Paik
+  prefix: Prof. (Dr.)
+  group: HP Laboratory
+  url: https://sites.google.com/view/hplabbioinfo?pli=1&authuser=0
+  institute: Korea Instittue of Science and Technology Information (KISTI) & University of Science and Technology
+  location:
+    lat: 36.3703
+    lng: 127.3652
 - name: Chang Ho Sohn
   prefix: Prof.
   group: Spatial Multiomics Laboratory
